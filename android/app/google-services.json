@@ -1,0 +1,114 @@
+{
+  "project_info": {
+    "project_number": "458975933041",
+    "firebase_url": "https://xyloinc-database-default-rtdb.firebaseio.com",
+    "project_id": "xyloinc-database",
+    "storage_bucket": "xyloinc-database.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:458975933041:android:a9c3c87bf10f83c508a1d0",
+        "android_client_info": {
+          "package_name": "com.example.bbms"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "458975933041-3bqpaitb88tmdj03tg9iq59il0v8a0q0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bbms",
+            "certificate_hash": "3ac02fb41affed634026a19145d5e79967583096"
+          }
+        },
+        {
+          "client_id": "458975933041-dbvslvmjfkp6m491oa18l5ksfvf3g8s6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9hl9T5bfFFRoEVXD1hIDVaaSVVahXuwM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "458975933041-dbvslvmjfkp6m491oa18l5ksfvf3g8s6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:458975933041:android:c765a43ccc01614c08a1d0",
+        "android_client_info": {
+          "package_name": "com.example.blood_donation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "458975933041-dbvslvmjfkp6m491oa18l5ksfvf3g8s6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9hl9T5bfFFRoEVXD1hIDVaaSVVahXuwM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "458975933041-dbvslvmjfkp6m491oa18l5ksfvf3g8s6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:458975933041:android:82e53fa83d8a058b08a1d0",
+        "android_client_info": {
+          "package_name": "com.smartersvision.markets_deliveryboy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "458975933041-lb51qi25jub8549n7a23i9lhd97sc9lq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.smartersvision.markets_deliveryboy",
+            "certificate_hash": "3ac02fb41affed634026a19145d5e79967583096"
+          }
+        },
+        {
+          "client_id": "458975933041-dbvslvmjfkp6m491oa18l5ksfvf3g8s6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9hl9T5bfFFRoEVXD1hIDVaaSVVahXuwM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "458975933041-dbvslvmjfkp6m491oa18l5ksfvf3g8s6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
